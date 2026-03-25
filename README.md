@@ -1,7 +1,7 @@
 # Hi 👋, I'm Youssef Tamer
 
 🎯 Aspiring Data Analyst  
-📊 Skilled in Excel, SQL, Power BI, and Tableau  
+📊 Skilled in Excel, SQL, Power BI, python and Tableau  
 📍 Based in Egypt  
 
 ---
@@ -13,9 +13,9 @@
 - Tableau
 - Data Cleaning
 - Data Visualization
+- python
 
 ---
 
 ## 📫 Contact Me
-- Email: your email
-- LinkedIn: your link
+- Email: yousseftamer982@gmail.com
